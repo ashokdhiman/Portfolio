@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like SpringBoot, MySQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a full-stack developer with a strong passion for building efficient and user-friendly web applications. As a fresher, I have gained experience with technologies like React, Next.js, Spring Boot, MySQL, and MongoDB. My interest in web development started with a deep curiosity about how things work, and I am continuously learning and growing in this field. I enjoy working in teams, solving problems to create high-quality solutions, and tackling challenging data structures and algorithms (DSA) problems. You can view my progress and challenges on my LeetCode profile.`;
+export const ABOUT_TEXT = `I am a full-stack developer with a strong passion for building efficient and user-friendly web applications. As a fresher, I have gained experience with technologies like React, Next.js, Spring Boot, MySQL, and MongoDB. My interest in web development started with a deep curiosity about how things work, and I am continuously learning and growing in this field. I enjoy working in teams, solving problems to create high-quality solutions, and tackling challenging data structures and algorithms (DSA) problems. You can view my progress and challenges on my `;
 
 // export const EXPERIENCES = [
 //   {
